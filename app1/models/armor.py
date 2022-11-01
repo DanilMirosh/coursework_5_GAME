@@ -2,7 +2,7 @@ from typing import Optional, List, Type
 
 from .base import BaseDAO
 from .models import Armor
-from app.game_container import Equipment
+from app1.game_container import Equipment
 
 
 class ArmorDAO(BaseDAO[Armor]):

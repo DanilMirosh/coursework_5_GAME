@@ -1,4 +1,4 @@
-from app.dao import \
+from app1.dao import \
     WeaponDAO, \
     ArmorDAO, \
     UnitClassDAO, \
@@ -6,7 +6,7 @@ from app.dao import \
     PlayerDAO, \
     EnemyDAO
 
-from app.services import \
+from app1.services import \
     WeaponService, \
     ArmorService, \
     UnitClassService, \
